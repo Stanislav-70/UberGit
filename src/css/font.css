@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?w08e6q');
+  src:  url('../fonts/icomoon.eot?w08e6q#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?w08e6q') format('truetype'),
+    url('../fonts/icomoon.woff?w08e6q') format('woff'),
+    url('../fonts/icomoon.svg?w08e6q#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  /* speak: never; */
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-linkedin:before {
+  content: "\e904";
+}
+.icon-social:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-social1:before {
+  content: "\e905";
+}
+.icon-facebook1:before {
+  content: "\e906";
+}
+.icon-social2:before {
+  content: "\e906";
+}
+.icon-facebook2:before {
+  content: "\e907";
+}
+.icon-facebook5:before {
+  content: "\e911";
+}
+.icon-linkedin1:before {
+  content: "\e908";
+}
+.icon-twitter:before {
+  content: "\e900";
+}
+.icon-facebook3:before {
+  content: "\e909";
+  color: #1877f2;
+}
+.icon-instagram11:before {
+  content: "\e902";
+  color: #e4405f;
+}
+.icon-linkedin3:before {
+  content: "\e90a";
+  color: #0077b5;
+}
+.icon-twitter1:before {
+  content: "\e90b";
+  color: #1da1f2;
+}
+.icon-instagram-with-circle:before {
+  content: "\e90c";
+}
+.icon-instagram-with-circle1:before {
+  content: "\e903";
+}
+.icon-facebook6:before {
+  content: "\e912";
+}
+.icon-instagram:before {
+  content: "\e90d";
+}
+.icon-linkedin-square:before {
+  content: "\e90e";
+}
+.icon-facebook-official:before {
+  content: "\e90f";
+}
+.icon-facebook-square:before {
+  content: "\e910";
+}
+.icon-twitter-square:before {
+  content: "\e901";
+}
+.icon-facebook4:before {
+  content: "\ea90";
+}
+.icon-instagram1:before {
+  content: "\ea92";
+}
+.icon-vk:before {
+  content: "\ea98";
+}
+.icon-linkedin2:before {
+  content: "\eac9";
+}
+.icon-linkedin21:before {
+  content: "\eaca";
+}
